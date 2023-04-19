@@ -39,5 +39,5 @@ body {
     grid-area: rodape;
     background-color: #fff;
     position: sticky;
-    bottom: 0px;
+    bottom: 5px;
 }
